@@ -1,0 +1,20 @@
+# Archivos de entorno (evita que se suban)
+.env
+.env.local
+.env*.local
+
+# Next.js
+.next/
+out/
+dist/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+*.log
+.DS_Store
